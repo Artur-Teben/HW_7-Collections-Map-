@@ -1,7 +1,7 @@
-package com.java.map.family;
+package main.java.family;
 
-import com.java.map.comparators.FamilyNameOfEmblemComparator;
-import com.java.map.comparators.FamilyTitleComparator;
+import main.java.comparators.FamilyNameOfEmblemComparator;
+import main.java.comparators.FamilyTitleComparator;
 
 import java.util.*;
 

@@ -1,6 +1,6 @@
-package com.java.map.comparators;
+package main.java.comparators;
 
-import com.java.map.family.Family;
+import main.java.family.Family;
 
 import java.util.Comparator;
 

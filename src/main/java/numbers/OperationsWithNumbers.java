@@ -1,4 +1,4 @@
-package com.java.map.numbers;
+package main.java.numbers;
 
 import java.util.*;
 import java.util.stream.Collectors;

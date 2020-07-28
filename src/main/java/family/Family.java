@@ -1,4 +1,4 @@
-package com.java.map.family;
+package main.java.family;
 
 import java.util.Objects;
 

@@ -1,6 +1,6 @@
-package com.java.map;
+package main.java;
 
-import com.java.map.executor.Executor;
+import main.java.executor.Executor;
 
 public class Main {
 

@@ -1,8 +1,8 @@
-package com.java.map.executor;
+package main.java.executor;
 
-import com.java.map.family.Family;
-import com.java.map.family.OperationsWithFamily;
-import com.java.map.numbers.OperationsWithNumbers;
+import main.java.family.Family;
+import main.java.family.OperationsWithFamily;
+import main.java.numbers.OperationsWithNumbers;
 
 import java.util.*;
 
