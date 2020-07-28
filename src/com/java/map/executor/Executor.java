@@ -11,8 +11,8 @@ public class Executor {
 
         OperationsWithNumbers opr = new OperationsWithNumbers();
         String nums = opr.dataInput();
-        Set<String> set = opr.removeSimilarNumbers(nums);
-        System.out.println(set);
+        List<Integer> list = opr.removeSimilarNumbers(nums);
+        System.out.println(list);
 
         OperationsWithFamily oprWithFmly = new OperationsWithFamily();
         HashMap<String, Family> familyMap = oprWithFmly.initFamilyMap();
